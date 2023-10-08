@@ -2,8 +2,8 @@ address: https://test-stand.gb.ru
 browser: chrome
 sleep_time: 1
 
-login: rlpalagniuk
-passwd: 677c5f23df
+login: ansafatov
+passwd: 437v7h65lk
 
 
 title: WebDriver
